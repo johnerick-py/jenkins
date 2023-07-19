@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # django-todolist
 
 Simple todolist write in django for general use and pipeline automation..
@@ -30,8 +31,4 @@ $ python manage.py createsuperuser # Create a superuser
 $ python manage.py runserver
 ```
 
-
-License
-----
-
-GPL
+>>>>>>> 96089b061220afb14e5695c25a99794d60f797c7
